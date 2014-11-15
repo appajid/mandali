@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii301" format="1">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="70" y="-433" type="line" name="hr00"/>
+      <point x="70" y="897" type="line"/>
+      <point x="267" y="897" type="line"/>
+      <point x="267" y="958" type="line"/>
+      <point x="0" y="958" type="line"/>
+      <point x="0" y="-433" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="897" width="61" />
+      <vstem pos="0" width="70" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
