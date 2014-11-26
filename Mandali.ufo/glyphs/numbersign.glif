@@ -3,56 +3,5 @@
   <advance width="1012"/>
   <unicode hex="0023"/>
   <outline>
-    <contour>
-      <point x="586" y="280" type="line" name="hr00"/>
-      <point x="345" y="280" type="line"/>
-      <point x="427" y="521" type="line"/>
-      <point x="664" y="521" type="line"/>
-    </contour>
-    <contour>
-      <point x="350" y="521" type="line"/>
-      <point x="273" y="280" type="line"/>
-      <point x="69" y="280" type="line"/>
-      <point x="69" y="205" type="line"/>
-      <point x="249" y="205" type="line"/>
-      <point x="180" y="-9" type="line"/>
-      <point x="253" y="-9" type="line"/>
-      <point x="324" y="205" type="line"/>
-      <point x="563" y="205" type="line"/>
-      <point x="495" y="-9" type="line"/>
-      <point x="568" y="-9" type="line"/>
-      <point x="637" y="205" type="line"/>
-      <point x="856" y="205" type="line"/>
-      <point x="856" y="280" type="line"/>
-      <point x="659" y="280" type="line"/>
-      <point x="739" y="521" type="line"/>
-      <point x="936" y="521" type="line"/>
-      <point x="936" y="594" type="line"/>
-      <point x="761" y="594" type="line"/>
-      <point x="821" y="778" type="line"/>
-      <point x="746" y="778" type="line"/>
-      <point x="687" y="594" type="line"/>
-      <point x="447" y="594" type="line"/>
-      <point x="507" y="778" type="line"/>
-      <point x="432" y="778" type="line"/>
-      <point x="374" y="594" type="line"/>
-      <point x="149" y="594" type="line"/>
-      <point x="149" y="521" type="line"/>
-    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="12" width="-21" />
-      <hstem pos="205" width="75" />
-      <hstem pos="521" width="73" />
-      <vstem pos="69" width="867" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>895</integer>
   <key>capHeight</key>
-  <integer>710</integer>
+  <integer>-1</integer>
   <key>copyright</key>
   <string>Copyright (c) 2012, AP Society for Knowledge Networks, Hyderabad, INDIA.</string>
   <key>descender</key>
@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2014/07/28 05:06:40</string>
+  <string>2013/07/28 05:06:40</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -30,9 +30,9 @@
   <key>openTypeNameDesignerURL</key>
   <string></string>
   <key>openTypeNameLicense</key>
-  <string>SIL Open Font License 1.1</string>
+  <string>GNU General Public License 2.0</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>http://www.gnu.org/copyleft/gpl.html</string>
   <key>openTypeNameManufacturer</key>
   <string>Andhrapradesh Society for Knowledge Networks</string>
   <key>openTypeNameManufacturerURL</key>
@@ -65,6 +65,7 @@
   </array>
   <key>openTypeOS2Selection</key>
   <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>250</integer>
@@ -113,12 +114,8 @@
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-24</integer>
     <integer>0</integer>
-    <integer>455</integer>
-    <integer>459</integer>
-    <integer>710</integer>
-    <integer>725</integer>
+    <integer>0</integer>
   </array>
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
@@ -130,15 +127,10 @@
   <string>Mandali</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-199</integer>
-    <integer>-186</integer>
-  </array>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>66</integer>
-    <integer>36</integer>
+    <integer>74</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
@@ -166,9 +158,9 @@
   <key>versionMinor</key>
   <integer>0</integer>
   <key>year</key>
-  <integer>2014</integer>
+  <integer>0</integer>
   <key>xHeight</key>
-  <integer>455</integer>
+  <integer>-1</integer>
   <key>macintoshFONDName</key>
   <string>Mandali</string>
   <key>macintoshFONDFamilyID</key>

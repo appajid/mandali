@@ -83,7 +83,6 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-4" width="-21" />
       <hstem pos="267" width="64" />
       <vstem3 stem3List="0,66,262,67,525,66" />
     </hintset>

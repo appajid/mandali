@@ -112,7 +112,6 @@
     <hintset pointTag="hr00">
       <hstem pos="-288" width="48" />
       <hstem pos="-167" width="54" />
-      <hstem pos="12" width="-21" />
       <hstem pos="10" width="21" />
       <vstem pos="-52" width="46" />
       <vstem pos="33" width="39" />

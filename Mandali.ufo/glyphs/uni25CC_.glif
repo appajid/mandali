@@ -322,13 +322,14 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
+      <hstem pos="-80" width="540" />
       <hstem pos="-80" width="72" />
       <hstem pos="-49" width="73" />
       <hstem pos="37" width="72" />
       <hstem pos="154" width="72" />
       <hstem pos="271" width="72" />
       <hstem pos="357" width="72" />
-      <hstem pos="460" width="-20" />
+      <hstem pos="388" width="72" />
       <vstem pos="45" width="540" />
       <vstem pos="396" width="72" />
     </hintset>

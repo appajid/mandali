@@ -133,7 +133,6 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-9" width="80" />
       <hstem pos="-8" width="81" />
       <hstem pos="229" width="13" />
       <hstem pos="437" width="41" />

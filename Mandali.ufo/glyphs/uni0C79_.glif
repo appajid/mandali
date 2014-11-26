@@ -31,7 +31,7 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="0" width="-21" />
+      <hstem pos="-21" width="657" />
       <vstem pos="80" width="62" />
     </hintset>
   </hintSetList>

@@ -22,7 +22,6 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="15" width="-21" />
       <hstem pos="625" width="74" />
       <vstem pos="51" width="452" />
     </hintset>
